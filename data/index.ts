@@ -211,13 +211,17 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link : "https://github.com/satyPunk",
   },
   {
     id: 2,
-    img: "/twit.svg",
+    img: "/link.svg",
+    link: "https://linkedin.com/in/satyam-mishra-9329a1329"
+
   },
   {
     id: 3,
-    img: "/link.svg",
+    img: "/l.png",
+    link: "https://leetcode.com/u/Saty_here/",
   },
 ];
