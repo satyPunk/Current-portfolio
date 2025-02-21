@@ -74,7 +74,7 @@ export const projects = [
     id: 1,
     title: "A Blog Post Website For Writers and Readers",
     des: "A simple website with a interactive ui/ux for blogs built using next.js",
-    img: "/p1.svg",
+    img: "/blog.jpg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "#",
   },
@@ -108,32 +108,32 @@ export const testimonials = [
   {
     quote:
       "Collaborating with Satyam was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Satyam's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Satyam is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "Anshul Singhal",
+    title: "Freelancing Client from Fiver",
   },
   {
     quote:
       "Collaborating with Satyam was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Satyam's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Satyam is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "Anshul Singhal",
+    title: "Freelancing Client from Fiver",
   },
   {
     quote:
       "Collaborating with Satyam was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Satyam's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Satyam is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "Anshul Singhal",
+    title: "Freelancing Client from Fiver",
   },
   {
     quote:
       "Collaborating with Satyam was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Satyam's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Satyam is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "Anshul Singhal",
+    title: "Freelancing Client from Fiver",
   },
   {
     quote:
       "Collaborating with Satyam was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Satyam's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Satyam is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "Anshul Singhal",
+    title: "Freelancing Client from Fiver",
   },
 ];
 

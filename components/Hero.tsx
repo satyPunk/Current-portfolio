@@ -52,12 +52,12 @@ const Hero = () => {
            *  change md:text-6xl, add more responsive code
            */}
           <TextGenerateEffect
-            words="Transforming Concepts into Seamless User Experiences"
+            words="Building Scalable Solutions, One Line of Code at a Time"
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Satyam, a Full-Stack Developer and AI/ML Enthusiast.
+            Hi! I&apos;m Satyam, Full-Stack Developer | AI/ML Enthusiast | Problem Solver.
           </p>
 
           <a href="#about">
